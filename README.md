@@ -6,5 +6,5 @@
 <ul>
 <li>دۆلان، کۆدەکانی ئەو بەکارهاتوون بۆ بەدەستهێنانی داتای ماڵپەڕە کوردییەکان لەڕێی فرەیموۆرکی beautiful soup  لە زمانی  پایتۆن :https://github.com/dolanskurd/kurdish_news</li> 
 <li>بۆ وەرگرتنی داتاکانی سۆشیال میدیا سوود لە Facepager بینراوە: https://github.com/strohne/Facepager</li>
-
-  </ul>
+<li>بۆ شیکردنەوەی داتاکان هەدووپ:Hadoop بەکارهاتووە </li>
+  </ul> 
