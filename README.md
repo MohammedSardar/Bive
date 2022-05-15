@@ -4,8 +4,7 @@
 
 سوپاسی تایبەت بۆ:
 <ul>
-<li>دۆلان، کۆدەکانی ئەو بەکارهاتوون بۆ بەدەستهێنانی داتاکان:</li>
-https://github.com/dolanskurd/kurdish_news
+<li>دۆلان، کۆدەکانی ئەو بەکارهاتوون بۆ بەدەستهێنانی داتاکان:https://github.com/dolanskurd/kurdish_news</li> 
 <br>
 <li>بۆ وەرگرتنی داتاکانی سۆشیال میدیا سوود لە Facepager بینراوە: https://github.com/strohne/Facepager</li>
 
