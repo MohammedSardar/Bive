@@ -1,0 +1,17 @@
+import requests
+from bs4 import BeautifulSoup
+
+
+links = []
+for link_gen in range(1, 10000):
+    url = "https://books.vejin.net/ck/text/" + str(link_gen)
+    links.append(url)
+
+for link in links:
+    print(link)
+    url = requests.get(link).text
+    soup = BeautifulSoup(url, "lxml")
+    for i in soup.find_all("div", "text-container"):  #Here change html code depend on the website
+        # print(i.text)
+        with open("vejin.txt", "a", encoding="utf-8") as f:
+            f.write(str(i.text) + "\n")
