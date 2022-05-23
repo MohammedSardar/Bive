@@ -13,6 +13,8 @@
 <h3> چەند ئەنجامێکی پڕۆژەکە </h3>
 <img src="https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/1.png" alt="Vejin Result">
 <br>
-<img src="https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/5.png" alt="Vejin Result">
+<img src="https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/5.png" alt="NRT2">
+NRT2
 <br>
 <img src="https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/4.jpg" alt="Vejin Result">
+Twitter replies
