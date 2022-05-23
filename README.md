@@ -8,3 +8,9 @@
 <li>بۆ وەرگرتنی داتاکانی سۆشیال میدیا سوود لە Facepager بینراوە: https://github.com/strohne/Facepager</li>
 <li>بۆ شیکردنەوەی داتاکان هەدووپ:Hadoop بەکارهاتووە </li>
   </ul> 
+
+
+<h3> چەند ئەنجامێکی پڕۆژەکە </h3>
+<img src="[pic_trulli.jpg](https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/1.png)" alt="Vejin Result">
+
+
