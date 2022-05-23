@@ -18,3 +18,7 @@ NRT2
 <br>
 <img src="https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/4.jpg" alt="Vejin Result">
 Twitter replies
+
+
+<h3>مۆڵەتنامە/License</h3>
+Crearive Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
