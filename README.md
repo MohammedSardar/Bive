@@ -11,6 +11,6 @@
 
 
 <h3> چەند ئەنجامێکی پڕۆژەکە </h3>
-<img src="[pic_trulli.jpg](https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/1.png)" alt="Vejin Result">
+<img src="https://raw.githubusercontent.com/MohammedSardar/Bive/main/Visualization/1.png" alt="Vejin Result">
 
 
